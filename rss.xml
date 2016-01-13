@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[Vibrant Wellness]]></title>
         <description><![CDATA[Vibrant Wellness]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/vibrant-wellness/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jan 2016 19:48:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Jan 2016 20:11:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/vibrant-wellness/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Living Strong Daily]]></title>
+            <description><![CDATA[<article><h1>The Living Strong Daily</h1><p>The Living Strong Daily , by Ray Hochstetler: updated automatically with a curated selection of articles, blog posts, videos and photos.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/df6ca9dd65a1fef0f3fbe7f23680ad65323202a1.png"></article>]]></description>
+            <link>https://paper.li/RayHochstetler/living-strong</link>
+            <guid isPermaLink="false">be2a13c4-1566-4d71-b2a2-c441143cfe31</guid>
+            <pubDate>Wed, 13 Jan 2016 20:11:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Man Alive]]></title>
-            <description><![CDATA[<article><h1>The Man Alive</h1><p>"Madness does not come by breaking out, but by giving in; by settling down in some dirty, little, self-repeating circle of ideas; by being tamed." ― G.K. Chesterton, Man Alive</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9faf91b5ac07b42e8c059b281c6a9d98af56067c.png"></article>]]></description>
+            <description><![CDATA[<article><h1>The Man Alive</h1><p>"Madness does not come by breaking out, but by giving in; by settling down in some dirty, little, self-repeating circle of ideas; by being tamed." ― G.K. Chesterton, Man Alive</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/47d9bf41e235f27fa611011af459b0d200b94222.png"></article>]]></description>
             <link>http://themanalive.tumblr.com/</link>
             <guid isPermaLink="false">397565f2-a879-478b-a8fb-e506be991424</guid>
             <pubDate>Wed, 13 Jan 2016 19:48:14 GMT</pubDate>
