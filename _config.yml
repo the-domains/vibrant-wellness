@@ -1,0 +1,28 @@
+name: Vibrant Wellness
+favicon: null
+layout_spectrum: 0.6064400761388242
+typography_spectrum: 0.5723380576819181
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.2941482556052506
+  lightness: 0.046982645988464355
+  saturation: 0.580671866890043
+  rhythmicContrast: 0.3759782414417714
+purpose: []
